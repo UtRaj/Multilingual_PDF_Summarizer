@@ -1,0 +1,7 @@
+sentencepiece
+torchvision
+transformers
+torch
+accelerate
+streamlit
+PyMuPDF
