@@ -3,7 +3,6 @@
 ## Overview
 
 PDF Summarization and Translation is an innovative tool designed to streamline the process of extracting meaningful insights from PDF documents in different languages. Leveraging advanced natural language 
-
 processing (NLP) techniques and Large Language Models, the application offers a seamless experience for users to upload PDF files, summarize their content and translate the summaries into multiple languages.
 
 ## Key Features
